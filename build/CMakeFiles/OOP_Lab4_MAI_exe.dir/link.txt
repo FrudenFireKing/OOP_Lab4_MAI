@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OOP_Lab4_MAI_exe.dir/src/main.cpp.o -o OOP_Lab4_MAI_exe  libOOP_Lab4_MAI_lib.a 

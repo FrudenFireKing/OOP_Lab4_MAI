@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOOP_Lab4_MAI_lib.a CMakeFiles/OOP_Lab4_MAI_lib.dir/src/main.cpp.o
+/usr/bin/ranlib libOOP_Lab4_MAI_lib.a
